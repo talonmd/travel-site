@@ -38,7 +38,7 @@ class ClientArea {
     <h2 class="section-title section-title--blue">Secret Client Area</h2>
     <div class="generic-content-container">
     <div class="wrapper wrapper--narrow">
-    <p>This is section is inserted dynamically and processed with Netlify Cloud Functions</p>
+    <p>This is section is inserted dynamically and processed with Netlify Cloud Functions / AWS Lambda</p>
     </div>
     </div>
     <form class="client-area__form" action="">
